@@ -1,0 +1,15 @@
+<package format="2">
+  <name>scara_lwr_description</name>
+  <version>1.0.0</version>
+  <description>The scara_lwr_description package contains the model of a SCARA arm.</description>
+
+  <maintainer email="pernilla.wikstrom.utv@gmail.com">Pernilla</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>rospy</exec_depend>
+
+  <export>
+  </export>
+</package>

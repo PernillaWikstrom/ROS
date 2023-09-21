@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+*venv/
+*.pre-commit-config.yaml
+
+*__pycache__*
